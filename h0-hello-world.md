@@ -1,14 +1,7 @@
-# One hash makes heading one 
+# h0 - Hello World
 
-Regular text is just written. 
+a) My first Task was
 
-Empty line adds a paragraph break. 
+## References
 
-## Two hashes make heading two
-
-URLs are rendered automatically, like http://TeroKarvinen.com
-
-Code is indented with four spaces (or a tab)
-
-    $ ls
-    hello-tero.md
+Karvinen 2024: http://TeroKarvinen.com
