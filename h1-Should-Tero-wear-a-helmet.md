@@ -1,51 +1,68 @@
 # h1 - Should Tero wear a helmet?
 
 ## Braiterman et al 2020: Threat modeling manifesto
-•	Threat modeling = analyzing system to uncover vulnerabilities/threats
 
-•	Everyone should threat model
-
-•	Values: finding and fixing issues, collaboration, continuos refinement
-
-•	Principles: improving security&privacy, frequent analysis
+- Threat modeling = analyzing system to uncover vulnerabilities/threats
+- Everyone should threat model
+- Values: finding and fixing issues, collaboration, continuos refinement
+- Principles: improving security&privacy, frequent analysis
   
-  >	Patterns that benefit threat modeling
+>	Patterns that benefit threat modeling
 
-    Systematic approach
-    Creativity
-    Varied Viewpoints
-    Improvement
-    Theory into practice
+  - Systematic approach
+  - Creativity
+  - Varied Viewpoints
+  - Improvement
+  - Theory into practice
 
-  >	Anti-Pattern to avoid
+>	Anti-Pattern to avoid
 
-    Relying on one person
-    Over-focusing on one problem
-    Aiming for perfect representation
+  - Relying on one person
+  - Over-focusing on one problem
+  - Aiming for perfect representation
 
 ## Shostack 2022: Welcome to the Worlds Shortest Threat Modeling Course
-What are we working on?
+***What are we working on?***
 
-• Collaboration = teamworking
+- Collaboration = teamworking
+- Sketching our visual representation because it will be probably imperfect
+- Data flow diagrams
 
-• Sketching our visual representation because it will be probably imperfect
+***What can go wrong?***
 
-• Data flow diagrams
+-	STRIDE (Improves threat modeling)
+-	Killchain
 
-What can go wrong?
+***What are we going to do about it?***
 
-•	STRIDE (Improves threat modeling)
+- Track work
+- Risk management
 
-•	Killchain
+***Did we do a good job?***
 
-What are we going to do about it?
+- If you can recommend threat modelling then it means you did a good job
 
-•	Track work
+***Threats tend to follow data***
 
-•	Risk management
+## OWASP CheatSheets Series Team 2021: Threat Modeling Cheat Sheet
 
-Did we do a good job?
+- Threat modeling is ideally performed early in the SDLC, such as during the design phase.
 
-• If you can recommend threat modelling then it means you did a good job
+> Advantages
+  - Identifying Risks early
+  - Increased Security
+  - Improved Visibility
 
-Threats tend to follow data
+> Steps
+  - System modeling with Flow Diagrams
+  - Identify threats with ***STRIDE*** (***S***poofing, ***T***ampering, ***R***epudiation, ***I***nformation Disclosure, ***D***enial of Service, ***E***levation of privileges)
+  - Each identified threat should have a response (Mitigate, Eliminate, Transfer, Accept)
+  - And finally Review with key questions
+
+> Challenges
+  - Team lacks knowledge
+  - Complexity & time-consuming
+  - Lack of communication/collaboration
+
+***SOLUTION*** = Threat Modeling Sessions & Training
+
