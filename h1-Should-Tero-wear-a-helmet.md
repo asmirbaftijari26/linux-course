@@ -66,3 +66,15 @@
 
 ***SOLUTION*** = Threat Modeling Sessions & Training
 
+## DARKNET DIARIES PODCAST - EP 133: I'm the Real Connor
+Connor Tumbleson, a director of engineering, shared a strange experience where someone used his identity online. He received an email from a college student named Andrew who warned him that someone was using his identity to apply for jobs. Connor found that a fake Upwork profile had been created using his credentials, with someone else impersonating him in job interviews. Connor joined one of the interviews and to confront the impersonator but the impersonator left the call.
+
+## a) Security hygiene
+- Strong and different passwords
+- Use Multiple Factor Authentication
+- Do ***NOT*** click on every link
+- Do ***NOT*** use public Wi-Fi
+- Use VPN
+- Keep devices up-to-date
+
+## b) Make-belief boogie-man - a threat model for imaginary company.
