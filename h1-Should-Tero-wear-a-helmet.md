@@ -99,6 +99,9 @@ Crypto4Ever is a company specializing in digital currency solutions offering an 
 - Product accessibility & usability
 - Regulatory compliance
 
+![image](https://github.com/user-attachments/assets/f17d5c74-d6e3-42f5-9f27-7aee67f02071)
+
+
 ***What can go wrong?***
 > STRIDE
 
