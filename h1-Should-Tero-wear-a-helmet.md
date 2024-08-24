@@ -99,4 +99,32 @@ Crypto4Ever is a company specializing in digital currency solutions offering an 
 - Product accessibility & usability
 - Regulatory compliance
 
-***What can go wrong***
+***What can go wrong?***
+> STRIDE
+
+- Spoofing: Attackers fake user identities in order to manipulate accounts (Low Prio)
+- Tampering: unauthorized transactions (High Prio)
+- Repudiation: vulnerabilities exploit (Medium Prio)
+- Information disclosure: exposure of customer identity data or wallet private keys (High Prio) 
+- Denial of service: attacks leading to service disruption (Medium Prio)
+- Elevation of privilege: access exploit (High Prio)
+
+> Threat Actors
+
+- Cybercriminals: seeking financial gains
+- Nation-state: actors interested in destabilizing the market
+
+***What are we going to do about it?***
+- Reduce attacks with: strict or limited privileges/access, limit API access, keep systems updated
+- Limit entry points with: multi factor authentication, use strong protocols, use HSMs and Passkeys
+
+- Mitigate: monitor&detect suspiscous activities, require multiple signatures for transactions, reduce human errors
+- Eliminate: update systems
+- Transfer: obtain insurance to cover losses from breaches, obtain more security know-how and 
+- Accept: accept risks by still mantaining a good recovery plan
+
+***Did we do a good enough job?***
+- Regularly test every system to ensure constant protection
+- Ongoing monitoring
+- Employee training to keep them updated to latest threats
+- Update threat models
