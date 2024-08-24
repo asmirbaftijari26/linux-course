@@ -78,3 +78,25 @@ Connor Tumbleson, a director of engineering, shared a strange experience where s
 - Keep devices up-to-date
 
 ## b) Make-belief boogie-man - a threat model for imaginary company.
+***What are we working on?***
+> Description
+
+Crypto4Ever is a company specializing in digital currency solutions offering an exchange, wallet service and other blockchain based products like staking.
+
+> Key Assets
+- Crown jewel: Cryptocurrency holdings (client Assets)
+- High priority: Exchange platform, wallets, nodes, transactions
+- Meidum priority: User data (compliance)
+- Low priority: Website
+
+> Security supports business
+- Ensure safe access to holdings
+- Safeguard from malicious attacks on client assets
+- Keep customers updated
+
+> Customer is the king (to ensure revenue...)
+- Company integrity should be mantained / access to company wallets to verify
+- Product accessibility & usability
+- Regulatory compliance
+
+***What can go wrong***
