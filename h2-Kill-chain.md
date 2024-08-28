@@ -32,3 +32,21 @@
 ![image](https://github.com/user-attachments/assets/29650fba-a4ff-420e-a0fb-e1dc9335a45c)
 
 
+## 9) Now I went to https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/ and searched for "debian-live-12.6.0-amd64-xfce.iso" and downloaded it (this is the ISO File aka Debian)
+
+## 10) Now I opened VirtualBox and clicked on "New" 
+![image](https://github.com/user-attachments/assets/e9f27f7e-494e-4ee4-bad8-292a0fc6c26a)
+
+## 11) On the new window, below I clicked on "Expert Mode" in order to have more options
+![image](https://github.com/user-attachments/assets/6927f9d7-2962-493a-8f5c-13c3de7a5113)
+
+## 12) Then I entered the name "DebianTeroKarvinenCom", chose the ISO File and checked the box with "Skip Unattended Installation"
+![image](https://github.com/user-attachments/assets/b9bd67b1-34c4-4db2-9f99-0f4848bb30a3)
+
+## 13) On the same window, I opened the "Hardware" section and gave 4096MB (=4GB) of RAM and 2 CPU working Processors out of my 16
+![image](https://github.com/user-attachments/assets/85168417-418d-42bd-b9ff-4f3627638563)
+
+## 14) Still on this window I opened "Hard disk" and augmented the Hard disk Size to 60GB to give it more breathing room and finally clicked on "Finish"
+![image](https://github.com/user-attachments/assets/d6ba20c1-af8b-42e9-a96f-dc3cb7e73d07)
+
+## 15)
