@@ -49,4 +49,11 @@
 ## 14) Still on this window I opened "Hard disk" and augmented the Hard disk Size to 60GB to give it more breathing room and finally clicked on "Finish"
 ![image](https://github.com/user-attachments/assets/d6ba20c1-af8b-42e9-a96f-dc3cb7e73d07)
 
-## 15)
+## 15) Now the setup is finished and started it
+
+## 16) This is what showed on first boot. Then selected "Live system (amd64)"
+![image](https://github.com/user-attachments/assets/1e7a704b-db26-4e6d-80bf-3d0c695aff0c)
+
+## 17) After a few minutes the desktop showed up and looked like this
+![image](https://github.com/user-attachments/assets/d2ff77cf-4bbf-4dba-85b6-26c9555acd81)
+
