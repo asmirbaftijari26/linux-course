@@ -1,11 +1,25 @@
 # h2 - Kill chain
 
 ## Hutchins et al 2011: Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains
--
--
--
--
--
+- APT = Advanced Persistent Threats
+- Designed to steal information
+- Traditional defense like antivirus is not enough against it
+- Intelligence Driven Defense = trying to understand and predict intrusions
+- Indicator Life Cycle = describes process of identifying, maturing and leveraging indicators
+- 3 Types of indicators:
+  - Atomic: IP-Adresses, Email Adresses
+  - Computed: from data involve in an incident
+  - Behavioral: mix of both
+- Intrusion Kill Chain = systematic process to target and engage an adversary to create desired effects.
+  - Reconnaissance: research and identification of targets
+  - Weaponization: creation of malware
+  - Delivery: transfer malware to target via email for example
+  - Exploitation: execution of the code
+  - Installation: permanent installation to mantain control
+  - Command and Control (C2): establishment of a connection to the attacker's server
+  - Actions on Objectives: complete mission aka extract data
+- Courses of Action Matrix = Framework to align measures against it
+- Campaign analysis = for pattern identification to develop more effective defense
 
 # a) Installing VirtualBox and Debian 12-Bookworm Linux on it
 ## 1) I went to https://www.virtualbox.org/wiki/Downloads and clicked and installed "Windows hosts"
