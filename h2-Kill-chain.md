@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a3143328-d935-4072-a44e-b5c8760e72f5)# h2 - Kill chain
+# h2 - Kill chain
 
 ## Hutchins et al 2011: Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains
 -
