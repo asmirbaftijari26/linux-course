@@ -1,4 +1,4 @@
-# h2 - Kill chain
+![image](https://github.com/user-attachments/assets/a3143328-d935-4072-a44e-b5c8760e72f5)# h2 - Kill chain
 
 ## Hutchins et al 2011: Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains
 -
@@ -7,7 +7,7 @@
 -
 -
 
-# Installing VirtualBox and Debian 12-Bookworm Linux on it
+# a) Installing VirtualBox and Debian 12-Bookworm Linux on it
 ## 1) I went to https://www.virtualbox.org/wiki/Downloads and clicked and installed "Windows hosts"
 
 ## 2) I opened the setup and clicked on "Next >" in order to start the setup procedure
@@ -57,3 +57,12 @@
 ## 17) After a few minutes the desktop showed up and looked like this
 ![image](https://github.com/user-attachments/assets/d2ff77cf-4bbf-4dba-85b6-26c9555acd81)
 
+# b) Voluntary Bonus: Update all software using "apt-get"
+## 1) I opened the terminal terminator
+![image](https://github.com/user-attachments/assets/fb0bcad9-00bd-4525-bba4-2b31eb356718)
+
+## 2) I entered the following "sudo apt-get -y dist-upgrade" in the command line in order to update everything
+![image](https://github.com/user-attachments/assets/4d801a0b-e968-490d-8279-281fa1072590)
+
+## 3) After its done it looked like this:
+![image](https://github.com/user-attachments/assets/51e623a0-d314-4208-8ec5-8200cbd44fc5)
