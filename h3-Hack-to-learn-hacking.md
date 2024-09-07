@@ -1,7 +1,22 @@
 # x) Summaries
-## Disobey 2024
-- x
-- x
+## Disobey 2024: [D24] How Much Dirty Laundry Are Your Smart Home Devices Airing About You - Jack Fitzsimons
+- Talking about Smart devices (IOTs)
+- About (samsung and garmin) smartwatches: they collect data and pool it together
+  - Samsung collects data even from kids, Garmin does too but because of Law they get rid of it
+- on https://reports.exodus-privacy.eu.org/en/ you can enter the link of an App (from Google App store for example) and it will tell you how many trackers/permissions it abuses
+- Even after knowing what permissions/data are collected, still we don't know WHO ELSE might be getting these data
+  - one way to find out is: by decompiling the Application
+    - using apktool(android) or ios-frida-dump(iOS) -> search through the code
+- Monitoring traffic with a web proxy with zaproxy/frida
+  - through API, a request can be made to get collected data
+    - Samsung was readable
+    - Garmin wasn't because of garmins specific file format -> so make it readable with Fit File Viewer
+      -  All in all: not every data is being collected for example height and weight yes whereas stress or activity metrics not
+- Comparing the Samsung Wear App and Garmin App in both Android and iOS -> generally on both systems they collect the same amount of data (on iOS slightly worse)
+- SOLUTIONS:
+  - We can block SOME third parties
+  - We can use Garmin without the App (Samsung its not possible)
+  - Self-hosting our own data with amazfit
 ## Karvinen 2020
 - x
 - x
