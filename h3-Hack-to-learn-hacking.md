@@ -32,12 +32,17 @@
 - ***history:*** shows all commands you have ran
 
 ## Voluntary Bonus: Bitcoin Whitepaper
-- Chapter 2
-  - x
-- Chapter 4
-  - x 
-- Chapter 6
-  - x
+- Chapter 2: Transactions
+  - A chain of digital signatures where each owner transfers the coin by signing the hash of the previous transaction and the public key of the next owner
+  - The receiver can verify the chain of ownership by checking the digital signatures
+  - Transactions are public and participants "agree" on a single history of the order in which transactions are received
+  - Majority of nodes must agree that each transaction was the first to be received, preventing double-spending without the need for a trusted central party.
+- Chapter 4: Proof of Work
+  - PoW is a consensus method, which requires Hardware to mine blocks and validate transactions. Its a peer-to-peer network that ensures blocks cannot be altered/manipulated without significant computational effort. Each new block is linked to the previous block so it creates a chain which cannot be manipulated. If an intrusion sneaks to take place, the network recognizes it and declines it. A malicious actor would need to control the majority of the network’s computational power to attack the system, which becomes increasingly difficult as the honest network grows. To adapt to increasing computational power and varying node participation, the difficulty of finding the required nonce adjusts dynamically. This ensures a steady rate of block generation.
+    ![image](https://github.com/user-attachments/assets/c79e3dff-2be2-40d5-8f77-e2cfb64eb100)
+
+- Chapter 6: Incentive
+  - The incentive comes from mining Blocks or transaction fees. Once all Blocks are behind, the network can continue incentivising only through transaction fees, which makes this as a whole inflation free :) 
 ## a) Bandit oh-five. Solve Over The Wire: Bandit the first five levels (0-4)
 xxx
 
