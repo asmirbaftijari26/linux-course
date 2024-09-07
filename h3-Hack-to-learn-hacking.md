@@ -42,9 +42,34 @@
     ![image](https://github.com/user-attachments/assets/c79e3dff-2be2-40d5-8f77-e2cfb64eb100)
 
 - Chapter 6: Incentive
-  - The incentive comes from mining Blocks or transaction fees. Once all Blocks are behind, the network can continue incentivising only through transaction fees, which makes this as a whole inflation free :) 
+  - The incentive comes from mining Blocks or transaction fees. Once all Blocks are behind, the network can continue incentivising only through transaction fees, which makes this as a whole inflation free :)
+
 ## a) Bandit oh-five. Solve Over The Wire: Bandit the first five levels (0-4)
-xxx
+- Level 0:
+  ![image](https://github.com/user-attachments/assets/4128b039-b41d-40ad-8a24-ce9541757c39)
+- Level 1:
+  ![image](https://github.com/user-attachments/assets/4e89565a-4b99-47c8-85a1-b3b3781fc195)
+  ![image](https://github.com/user-attachments/assets/9cd605dd-1264-43f2-bd59-18d1b960eb6f)
+- Level 2:
+  ![image](https://github.com/user-attachments/assets/dd38ab29-320d-4022-8f4a-5b934d6ff57d)
+  ![image](https://github.com/user-attachments/assets/caa3eda0-6b30-416d-b8a3-ad5ef2ca286b)
+- Level 3:
+  ![image](https://github.com/user-attachments/assets/dec614db-7c83-4ae3-9bfa-6a03999c05ef)
+  ![image](https://github.com/user-attachments/assets/bd550c82-3680-4d40-8f89-efc9102f0f5a)
+- Level 4:
+  ![image](https://github.com/user-attachments/assets/56b54e14-ea9f-4ffd-a500-1a945ca005d9)
+  ![image](https://github.com/user-attachments/assets/1de9b01b-07df-4a3d-a7e0-09ad335e7e3e)
+- Level 5:
+  ![image](https://github.com/user-attachments/assets/0120b02d-1b21-409c-a45d-0bfb3ba8fbd4)
+  ![image](https://github.com/user-attachments/assets/5ace01bb-9e50-4126-bd66-4ae96060caea)
+
+
+
+
+
+  
+
+
 
 ## b) Can't fish. Disable networking and show that packets don't go trough. For example, use 'ping 1.1.1.1' (Cloudfare DNS server) or 'ping 8.8.8.8' (Google DNS server)
 xxx
