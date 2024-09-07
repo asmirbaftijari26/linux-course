@@ -63,19 +63,26 @@
   ![image](https://github.com/user-attachments/assets/0120b02d-1b21-409c-a45d-0bfb3ba8fbd4)
   ![image](https://github.com/user-attachments/assets/5ace01bb-9e50-4126-bd66-4ae96060caea)
 
-
-
-
-
-  
-
-
-
 ## b) Can't fish. Disable networking and show that packets don't go trough. For example, use 'ping 1.1.1.1' (Cloudfare DNS server) or 'ping 8.8.8.8' (Google DNS server)
-xxx
+Step 1: find interface name and disable it
+![image](https://github.com/user-attachments/assets/3f821561-ea0f-432a-9f25-fa5bc4850b08)
+
+Step 2: Test with ping 1.1.1.1 and 8.8.8.8
+![image](https://github.com/user-attachments/assets/9223464d-1d08-411f-90f0-fdb0fec0aa99)
+
+Step 3: Enable it again to test if packets go through
+![image](https://github.com/user-attachments/assets/5551089d-cfaf-49c4-bfb8-ef8d4e8987e6)
 
 ## c) Local only. Portscan your own computer using "localhost" address. It's illegal to portscan computers you don't own. Disconnect computer from the Internet while testing. Analyze your results
-xx
+![image](https://github.com/user-attachments/assets/dec7f50a-8967-4aac-be74-445b25ee763d)
+- Port 25 (SMTP):
+  - State: Open
+  - Service: SMTP (Simple Mail Transfer Protocol)
+  - Purpose: is used for sending emails
+- Port 631 (IPP):
+  - State: Open
+  - Service: IPP (Internet Printing Protocol)
+  - Purpose: is used for managing network printers
 
 ## d) Daemon. Install a daemon (a server application) and port scan again. For example, you could install Apache web server or OpenSSH secure remote shell. Analyze the differences to scan without the daemon
 xx
