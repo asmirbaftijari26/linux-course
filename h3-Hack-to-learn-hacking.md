@@ -85,4 +85,7 @@ Step 3: Enable it again to test if packets go through
   - Purpose: is used for managing network printers
 
 ## d) Daemon. Install a daemon (a server application) and port scan again. For example, you could install Apache web server or OpenSSH secure remote shell. Analyze the differences to scan without the daemon
-xx
+![image](https://github.com/user-attachments/assets/e8abbf8e-5520-412c-bc64-19b9ee73af29)
+
+Without the daemon: Before installing any additional services, I only had 25/tcp (SMTP) and 631/tcp (IPP) open. These are related to mail transfer and printer services.
+Whereas now with the daemon (Apache): I see port 80/tcp (HTTP) open for serving web pages! 
