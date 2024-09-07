@@ -89,3 +89,10 @@ Step 3: Enable it again to test if packets go through
 
 Without the daemon: Before installing any additional services, I only had 25/tcp (SMTP) and 631/tcp (IPP) open. These are related to mail transfer and printer services.
 Whereas now with the daemon (Apache): I see port 80/tcp (HTTP) open for serving web pages! 
+
+## Voluntary Bonus: Underthewire Century
+Level 0 to 1:
+![image](https://github.com/user-attachments/assets/087e465c-015e-4943-9408-3ec398c6a224)
+
+Level 1 to 2:
+![image](https://github.com/user-attachments/assets/5a764eb7-8cba-491c-a8c9-a3bfc6310b2c)
