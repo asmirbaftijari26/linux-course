@@ -18,8 +18,19 @@
   - We can use Garmin without the App (Samsung its not possible)
   - Self-hosting our own data with amazfit
 ## Karvinen 2020
-- x
-- x
+- ***pwd:*** displays the current directory path.
+- ***ls:*** lists files and directories in the current directory.
+- ***cd:*** changes the current directory.
+- ***nano:*** a text editor to create or edit files.
+- ***cp:*** copies files from one location to another.
+- ***rm:*** removes (deletes) files or directories.
+- ***ssh:*** connects to a remote computer securely.
+- ***scp:*** transfers files between computers.
+- ***man:*** shows manual pages for command details.
+- ***sudo:*** runs commands with superuser privileges.
+- ***apt-get:*** manages software packages.
+- ***history:*** shows all commands you have ran
+
 ## Voluntary Bonus: Bitcoin Whitepaper
 - Chapter 2
   - x
