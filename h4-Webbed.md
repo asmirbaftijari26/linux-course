@@ -30,7 +30,15 @@
   - Implementing a minimal platform with only the necessary
   - Implementing an automated process which verifies the effectiveness
 ## A06:2021-Vulnerable and Outdated Components
-- x
+- Definition: its when components with known vulnerabilities or old versions are being used.
+- Examples
+  - If you dont know what version you are using
+  - Using outdated libraries
+  - If developers dont test the compatibility for upgrades
+- How to prevent:
+  - Remove unnecessary components
+  - Document all versions and set up alerts in case of vulnerabilities
+  - Only download from official sources over secure links
 
 # a) Installing WebGoat 2023.4
 x
