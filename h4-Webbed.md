@@ -41,7 +41,8 @@
   - Only download from official sources over secure links
 
 # a) Installing WebGoat 2023.4
-x
+![image](https://github.com/user-attachments/assets/a7a2f57f-670c-46c7-9178-4975073a5a3c)
+![image](https://github.com/user-attachments/assets/b290410f-ddaf-43be-ad07-6da3a661eb8d)
 
 # b) F12. Solve Webgoat 2023.4: General: Developer tools
 x
