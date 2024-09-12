@@ -1,6 +1,14 @@
 # OWASP Summaries
 ## A01:2021 – Broken Access Control
-- x
+- Definition: Broken Access Control means when someone can access data or perform actions beyond their permissions.
+- Examples
+  - By modifing URL
+  - By modifing API requests
+  - By acting as an user without being logged in
+- How to prevent:
+  - Implement access control mechanisms
+  - Deny by default
+  - Limit API requests
 ## A03:2021-Injection
 - x
 ## A05:2021-Security Misconfiguration
