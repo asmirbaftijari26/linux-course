@@ -20,7 +20,15 @@
   - Use LIMIT or other SQL Controls to prevent full leakage
   - Use positive server-side input validation
 ## A05:2021-Security Misconfiguration
-- x
+- Definition: Security misconfiguation is when security settings are not clearly defined or mantained which opens the door to vulnerabilities and attacks.
+- Examples
+  - Unnecessary features are installed (like ports, services, privileges...) 
+  - Default accounts still enabled and passwords unchanged
+  - Software out of date
+- How to prevent:
+  - Use the same configuration in all environments but with different credentials
+  - Implementing a minimal platform with only the necessary
+  - Implementing an automated process which verifies the effectiveness
 ## A06:2021-Vulnerable and Outdated Components
 - x
 
