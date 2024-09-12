@@ -48,7 +48,7 @@
 ![image](https://github.com/user-attachments/assets/98fa4436-0d32-4b43-88bf-ccabfd29040a)
 
 # c) Updating Linux
-Everything Updated with "sudo apt update"
+Everything Updated with 'sudo apt-get update' and 'sudo apt-get dist-upgrade'
 
 # d) Sequel. Solve SQLZoo
 ## 0 SELECT BASICS
@@ -61,4 +61,7 @@ Everything Updated with "sudo apt update"
 2) ![image](https://github.com/user-attachments/assets/decb83b2-066a-4ef1-84a3-e8b6bee2349e)
 
 # e) Johnny tables. Solve Portswigger Labs
-x
+I could not download Burp Suite it just said "Failed", but I solved it by inserting the Parameter on the URL (following one community video)
+
+![image](https://github.com/user-attachments/assets/745bf5e4-9740-4b11-988b-94fa8b9e8571)
+
