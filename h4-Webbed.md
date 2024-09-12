@@ -10,7 +10,15 @@
   - Deny by default
   - Limit API requests
 ## A03:2021-Injection
-- x
+- Definition: Injection is when a query or something is being sent in a form and it executes commands or to access data.
+- Examples
+  - SQL Injection
+  - NoSQL
+  - LDAP
+- How to prevent:
+  - Use safe API
+  - Use LIMIT or other SQL Controls to prevent full leakage
+  - Use positive server-side input validation
 ## A05:2021-Security Misconfiguration
 - x
 ## A06:2021-Vulnerable and Outdated Components
