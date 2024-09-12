@@ -45,13 +45,20 @@
 ![image](https://github.com/user-attachments/assets/b290410f-ddaf-43be-ad07-6da3a661eb8d)
 
 # b) F12. Solve Webgoat 2023.4: General: Developer tools
-x
+![image](https://github.com/user-attachments/assets/98fa4436-0d32-4b43-88bf-ccabfd29040a)
 
 # c) Updating Linux
-x
+Everything Updated with "sudo apt update"
 
 # d) Sequel. Solve SQLZoo
-x
+## 0 SELECT BASICS
+1) ![image](https://github.com/user-attachments/assets/841740f2-e176-41fa-84c9-7f22b4ccd2e9)
+2) ![image](https://github.com/user-attachments/assets/aafba6c8-e0a7-4223-b0d4-2a9a300e5f3a)
+3) ![image](https://github.com/user-attachments/assets/bc532563-bb9a-43ad-b4eb-d48f7d907e07)
+
+## 02 SELECT from World, from first two subtasks
+1) ![image](https://github.com/user-attachments/assets/88af1a6f-a0c4-45df-8256-133740a0e705)
+2) ![image](https://github.com/user-attachments/assets/decb83b2-066a-4ef1-84a3-e8b6bee2349e)
 
 # e) Johnny tables. Solve Portswigger Labs
 x
