@@ -72,7 +72,20 @@
 5. Verify Signature: Ensure the message is from the right sender with "gpg --verify"
 
 # a) Encrypt and decrypt a message with 'gnupg', using PGP public key cryptography.
-x
+1. I generated a set of keys with my full name, email and a blank password/passphrase.
+   ![image](https://github.com/user-attachments/assets/867b6279-4b1e-44ff-826b-5afd5cb814d3)
+   
+3. Then exported the Public Key
+   ![image](https://github.com/user-attachments/assets/04138756-0711-4a41-a62c-796a61756ce6)
+   
+4. Created a txt file with a message and then encrypted the Message
+   ![image](https://github.com/user-attachments/assets/660d9f66-e6ac-42df-a8c0-eafd4f67fd86)
+   
+5. Finally I decrypted the Message
+   ![image](https://github.com/user-attachments/assets/7a50f7e0-0707-42ac-9829-7e41d6d85509)
+   ![image](https://github.com/user-attachments/assets/fe986021-1333-4888-8057-c2ade16ab001)
+
+
 
 # b) Password manager: x
 x
