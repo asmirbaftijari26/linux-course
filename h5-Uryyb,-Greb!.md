@@ -64,8 +64,12 @@
 **1.7 LARGE NUMBERS**
 - Apparently the odds of winning the lottery is 1 in 4,000,000 but for me its non-existent lol
 
-## Karvinen 2023: PGP - Send Encrypted and Signed Message - gpg
-- x
+## Karvinen 2023: PGP - Send Encrypted and Signed Message with gpg
+1. Generate Key Pair: Use "gpg --gen-key" to create a public/private key pair.
+2. Export Public Key: Send the public key using "gpg --export --armor --output *output-filename*"
+3. Encrypt Message: Encrypt the file with "gpg --homedir . --encrypt --recipient *address* --sign --output encrypted.pgp --armor message.txt"
+4. Decrypt Message: Use "gpg --decrypt file.txt.gpg" to decrypt and verify the signature.
+5. Verify Signature: Ensure the message is from the right sender with "gpg --verify"
 
 # a) Encrypt and decrypt a message with 'gnupg', using PGP public key cryptography.
 x
