@@ -85,17 +85,35 @@
    ![image](https://github.com/user-attachments/assets/7a50f7e0-0707-42ac-9829-7e41d6d85509)
    ![image](https://github.com/user-attachments/assets/fe986021-1333-4888-8057-c2ade16ab001)
 
+# b) Password manager: KeePass
+## I installed KeePass, its cloudless and free :)
 
+1. Create a "Database" locally where everything will be stored, give it a name and set a password
+   ![image](https://github.com/user-attachments/assets/41096767-d122-4bb5-baa5-3cfcbe75b4a2)
+   ![image](https://github.com/user-attachments/assets/14b294b5-7a04-474c-9a70-e899d1108596)
+   ![image](https://github.com/user-attachments/assets/ce08469b-0cd4-450c-8aea-9663f4322fc0)
 
-# b) Password manager: x
-x
+2. The software asked me if I wanted an "Emergency Sheet" in case something happened, I accepted it and it looked like this:
+   ![image](https://github.com/user-attachments/assets/b956b609-7618-43ad-baad-67e7c68a2598)
+
+3. To enter new data, I went to "Entry" > "Add Entry" and entered everything as an example:
+  ![image](https://github.com/user-attachments/assets/e47c03db-5e8d-4c04-849c-e98117b9de39)
+
+4. If a password is needed, I just need to double click on the one in the list and a it automatically copies it to the clipboard BUT with a timer:
+  ![image](https://github.com/user-attachments/assets/42555a4a-9d41-40fd-b7b8-2c02227a7b44)
 
 # m) Voluntary Bonus: Encrypt and decrypt messages with CriptiQ
-x
+## ***This application was a group project of last semester, made by me and two other friends of mine***
+For anyone that is interested in trying it out: https://gitlab.fhnw.ch/cryptiq/cryptiq
 
-# n) Voluntary Bonus: Send and receive encrypted message over email
-x
+CriptiQ is a Java-based application designed to encrypt and decrypt messages using the One-Time-Pad (OTP) method. Users can encrypt and decrypt both text entries and entire files to protect their communications.
+
+1. Enter the message and click on "Encrypt" then copy the encrypted message
+   ![image](https://github.com/user-attachments/assets/b0296376-e7ec-4aef-a803-08e8f10114bf)
+
+2. Paste the encrypted message above then click "Decrypt"
+   ![image](https://github.com/user-attachments/assets/0230ce72-9ee0-4e49-a6aa-990f59c8adc4)
 
 # o) Voluntary Bonus: Frequency distribution of letters for Italian and German
-The six most common letters for Italian are: 
-The six most common letters for German are: 
+The six most common letters for Italian are: EAIONL
+The six most common letters for German are: ENISRA
