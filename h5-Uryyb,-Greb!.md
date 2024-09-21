@@ -88,6 +88,12 @@
 # b) Password manager: KeePass
 ## I installed KeePass, its cloudless and free :)
 
+Why a password manager is needed?
+- Prevent password reuse: to generate and store unique passwords for every account.
+- Guard against brute force attacks: to store complex passwords.
+- Protect from phishing: to autofill credentials ONLY on legitimate sites.
+- Encryption: to keep passwords encrypted and secure, accessible only by a master password.
+
 1. Create a "Database" locally where everything will be stored, give it a name and set a password
    ![image](https://github.com/user-attachments/assets/41096767-d122-4bb5-baa5-3cfcbe75b4a2)
    ![image](https://github.com/user-attachments/assets/14b294b5-7a04-474c-9a70-e899d1108596)
