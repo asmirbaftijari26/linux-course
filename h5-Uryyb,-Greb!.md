@@ -35,6 +35,35 @@
   - Computational Security: Most systems aim to be infeasible to break with current computational resources
   - Brute-Force Attacks: Trying all possible keys to decrypt, though computationally expensive, remains a threat
 
+**1.2 STEGANOGRAPHY**
+- The purpose is to hide the existence of a secret message within another message. For example with invisible ink or by hiding bits of a message in images.
+
+**1.3 SUBSTITUTION CIPHERS AND TRANSPOSITION CIPHERS**
+- A substitution cipher is one in which each character in the plaintext is substituted for another character in the ciphertext for example the famous Caesar Cipher or ROT13 whereas transposition ciphers rearrange characters of the plaintext in a specific order to form the ciphertext.
+
+**1.4 SIMPLE XOR**
+- Its a basic encryption method. It’s symmetric, meaning the same operation is used for both encryption and decryption. However, it’s easy to break.
+  | Input | Output |
+  | ----- | - |
+  | 0 + 0 | 0 |
+  | 0 + 1 | 1 |
+  | 1 + 1 | 0 |
+  | 1 + 0 | 1 |
+
+**1.5 ONE-TIME PADS**
+- Is the theoretically the perfect system: Each key letter is used exactly once, for only one message. The sender encrypts the message and then destroys the used pages of the pad or used section of the tape. The receiver has an identical pad and uses each key on the pad, in turn, to decrypt each letter of the ciphertext. The receiver destroys the same pad pages or tape section after decrypting the message. New message—new key letters.
+  | Example | Encryption |
+  | ------- | ---------- |
+  | O (n.14) + T (n.19) = 33 - 26 | I (n.7) |
+
+**1.6 COMPUTER ALGORITHMS**
+- **DES (Data Encryption Standard)** is symmetric and the most popular computer encryption algorithm
+- **RSA (named for its creators—Rivest, Shamir, and Adleman)** is the most popular public-key algorithm.
+- DSA (Digital Signature Algorithm, used as part of the Digital Signature Standard) is another public-key algorithm. It cannot be used for encryption, but only for digital signatures.
+
+**1.7 LARGE NUMBERS**
+- Apparently the odds of winning the lottery is 1 in 4,000,000 but for me its non-existent lol
+
 ## Karvinen 2023: PGP - Send Encrypted and Signed Message - gpg
 - x
 
