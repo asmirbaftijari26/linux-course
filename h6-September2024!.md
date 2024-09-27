@@ -39,3 +39,18 @@
 ***d595b2086532422bbe654bc07ea030df = disobey***
 
 <img src="https://github.com/user-attachments/assets/c0c42d4a-7bbb-45e5-b882-5eb1db3329a7" width="600">
+
+# m) Voluntary: Compile John the Ripper, Jumbo version
+## 1. I downloaded the libraries required with ***"sudo apt-get -y install micro bash-completion git build-essential libssl-dev zlib1g zlib1g-dev zlib-gst libbz2-1.0 libbz2-dev atool zip wget"***
+But I had to download ***"libssl-dev"*** apart, because I got errors
+<img src="https://github.com/user-attachments/assets/7eec748e-57cf-4998-a38e-5a6f6a58f5ae" width="600">
+
+## 2. Then I navigated to the folder and run ***"./configure"***
+<img src="https://github.com/user-attachments/assets/f7b7740f-8ffc-4378-bb53-8c266b0df1da" width="600">
+
+## 3. I compiled
+<img src="https://github.com/user-attachments/assets/21ce6e7d-3010-42e5-96cb-c70b56aeed2d" width="600">
+
+## 4. I ran it, and it gave me the version number.
+<img src="https://github.com/user-attachments/assets/6c3c476c-3cf9-45f4-b3c7-4b8fea0bee58" width="600">
+
