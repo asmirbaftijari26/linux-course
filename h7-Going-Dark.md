@@ -47,7 +47,9 @@
 - Its called Onion because each layer is seen as different relays
 
 ***Tracking Criminals Using TOR***
-- x
+- Tor is difficult to break but users can make mistakes
+- Most successes of tracking criminals is because of their own mistakes
+- Example: Ross Ulbricht created a marketplace but he did a mistake -> he used his real email and name
 
 # a) Install TOR browser and access TOR network
 - x
