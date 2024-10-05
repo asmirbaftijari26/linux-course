@@ -59,9 +59,18 @@
 ## 3. Now it connects automatically but the first time it required to connect to Tor manually
 
 # b) Browsing TOR network
-- Search engine
+- Search engine AHMIA or THE HIDDEN WIKI
   ![image](https://github.com/user-attachments/assets/7e59a898-2462-4824-9fd0-03f3eb346257)
+  ![image](https://github.com/user-attachments/assets/6d24a973-9452-43b4-9929-8a6eaee7170f)
+  
+- Marketplace to buy Apple products (apparently not stolen)
+  ![image](https://github.com/user-attachments/assets/41667022-3853-46e7-8c6d-f16a2a0a0975)
 
+- Forum Endchan apparently mostly Ukranians and some Russians post here stuff
+  ![image](https://github.com/user-attachments/assets/0016f66d-5f31-4f01-855b-41c8679798b4)
+
+- Links of real addresses which are also available outside of Tor
+  ![image](https://github.com/user-attachments/assets/4cc6b169-8b8d-441f-8b10-e76645d6d327)
 
 # Voluntary: Bitcoin addresses hunter
 - x
