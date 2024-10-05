@@ -29,13 +29,22 @@
 
 ## Shavers & Bair 2016: Hiding Behind the Keyboard: The Tor Browser €
 ***Introduction***
-- x
+- Tor is a modified version of Firefox
+- It hides IP Addresses to surf anonimously
+- Easy to use
 
 ***History and Intended Use of The Onion Router***
-- x
+- It was developed to allow private communication for example whistleblowers
+- Developed by the US government in 2002
+- Mantained by nobody, yet accessible for everybody
+- US Government is researching how to deanonymize users
 
 ***How The Onion Router Works***
-- x
+- The users traffic is being redirected to random relays which serve as a layer of encryption
+  - Goes through an entry relay then middle relay and lastly through an exit relay and they dont know anything about the traffic route
+  - Route changes every 10min
+- The data is first encrypted with elliptic curve cryptography which is unbreakable
+- Its called Onion because each layer is seen as different relays
 
 ***Tracking Criminals Using TOR***
 - x
