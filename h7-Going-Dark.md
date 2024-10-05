@@ -80,5 +80,5 @@
   <img src="https://github.com/user-attachments/assets/4cc6b169-8b8d-441f-8b10-e76645d6d327" width="600">
 
 # Voluntary: Bitcoin addresses hunter
-## Found a BTC address to transfer to to buy not so illegal things, there are multiple transactions which the amount in $ corresponds to the offered products. As you can see the volume isn't very high, this can be attributed to the fact that the address is freshly used and that people tend to transact with XMR (Monero) because of privacy (transactions aren't "public").
+## Found a BTC address to buy not so legal things, there are multiple transactions which the amount in $ corresponds to the offered products. As you can see the volume isn't very high, this can be attributed to the fact that the address is freshly used and that people tend to transact with XMR (Monero) because of privacy (transactions aren't "public").
   <img src="https://github.com/user-attachments/assets/0159e042-fdd4-4fa5-9408-d1f9a3337140" width="900">
