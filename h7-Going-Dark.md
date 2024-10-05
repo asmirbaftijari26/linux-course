@@ -52,10 +52,16 @@
 - Example: Ross Ulbricht created a marketplace but he did a mistake -> he used his real email and name
 
 # a) Install TOR browser and access TOR network
-- x
+## 1. I went to https://www.torproject.org/download/ and downloaded the linux version
+## 2. After download, extracted the files and started "start-tor-browser.desktop"
+![image](https://github.com/user-attachments/assets/78156da2-5c5f-4bae-8f96-d9b98c2f7a2a)
+
+## 3. Now it connects automatically but the first time it required to connect to Tor manually
 
 # b) Browsing TOR network
-- x
+- Search engine
+  ![image](https://github.com/user-attachments/assets/7e59a898-2462-4824-9fd0-03f3eb346257)
+
 
 # Voluntary: Bitcoin addresses hunter
 - x
